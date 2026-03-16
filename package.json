@@ -1,7 +1,7 @@
 {
-    "name": "lilys-baileys",
+    "name": "whiskeysockets",
     "version": "1.2.8",
-    "description": "Whatsapp baileys coded by Fallzx-Coderid.",
+    "description": "Whatsapp baileys",
     "keywords": [
         "whatsapp",
         "lily-baileys",
@@ -13,9 +13,9 @@
         "botwa",
         "stvnnvs"
     ],
-    "homepage": "https://github.com/FallEzz/baileys-corp.git",
+    "homepage": "https://github.com/@whiskeysockets/baileys.git",
     "repository": {
-        "url": "https://github.com/FallEzz/baileys-corp.git"
+        "url": "https://github.com/@whiskeysockets/baileys.git"
     },
     "license": "MIT",
     "author": "Adhiraj Singh",
