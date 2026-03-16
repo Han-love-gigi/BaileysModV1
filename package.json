@@ -18,7 +18,7 @@
         "url": "https://github.com/@whiskeysockets/baileys.git"
     },
     "license": "MIT",
-    "author": "Adhiraj Singh",
+    "author": "Socket Team",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
